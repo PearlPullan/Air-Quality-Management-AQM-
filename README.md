@@ -6,6 +6,8 @@ To upload the data collected by PPD42NS module to Firebase
 Steps-
 1. Download both
 2. Open RPi3 terminal
+       
        2.1 sudo pigpiod
+       
        2.2 sudo python fblink.py
 

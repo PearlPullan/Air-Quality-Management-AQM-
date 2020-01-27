@@ -14,12 +14,20 @@ Steps-
        
  FYI
  1. Install and configure pigpiod
-     sudo apt-get update
-     sudo apt-get install pigpio
-     pigpiod -v
+ 
+ sudo apt-get update
+ 
+ sudo apt-get install pigpio
+ 
+ pigpiod -v
+ 
  2. Install firebase
-     sudo pip install requests
-     sudo pip install python-firebase
+    
+    sudo pip install requests
+   
+   sudo pip install python-firebase
+  
   sudo apt-get install python-pip 
+  
   sudo pip install pyrebase
 
